@@ -21,7 +21,12 @@ Dataset used in this project covers incidents up to February 2025: [Kaggle Datas
 - tqdm, gdown
 
 ## Notes
-- Data is used in its raw form as provided by the FAA; preprocessing is part of the analysis  
-- Project includes interactive visualizations using Plotly  
+This project is provided in two formats due to technical limitations when committing Jupyter notebooks with outputs (Plotly interactive charts, widget states) from Kaggle/Colab to GitHub:
+- **`Aircraft_Wildlife_Strikes.ipynb`** – clean notebook **without outputs**, preserved mainly for code reference and version control.  
+- **`Aircraft Wildlife Strikes.html`** – full **report with outputs** (all visualizations and results), recommended for quick review.  
+
+For those who want to **run the code or explore methodology in detail**, it is recommended to use the original notebook links:  
+- [Google Colab notebook](https://colab.research.google.com/drive/1B0NamPImVrFWOxjKxfZpaaoAjG6Iz69N)  
+- [Kaggle notebook](https://www.kaggle.com/code/bartekmietlicki/aircraft-wildlife-strikes)
 
 Author: Bartosz Mietlicki
