@@ -25,7 +25,7 @@ This project is provided in two formats due to technical limitations when commit
 - **`Aircraft_Wildlife_Strikes.ipynb`** – clean notebook **without outputs**, preserved mainly for code reference and version control.  
 - **`Aircraft Wildlife Strikes.html`** – full **report with outputs** (all visualizations and results), recommended for quick review.  
 
-For those who want to **run the code or explore methodology in detail**, it is recommended to use the original notebook links:  
+The project was originally created in the Colab environment, and using it guarantees its full functionality. Links to external notebooks:  
 - [Google Colab notebook](https://colab.research.google.com/drive/1B0NamPImVrFWOxjKxfZpaaoAjG6Iz69N)  
 - [Kaggle notebook](https://www.kaggle.com/code/bartekmietlicki/aircraft-wildlife-strikes)
 
